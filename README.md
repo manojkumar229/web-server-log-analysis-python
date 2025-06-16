@@ -32,3 +32,20 @@ This project involves analyzing a real-world web server log file (Apache format)
 - regex
 - gzip
 - datetime
+
+---
+## 🧑‍🎓 Author
+
+**Manoj Kumar Desu**  
+📍 Hyderabad, India  
+📧 [manojkumardesu2003@outlook.com](mailto:manojkumardesu2003@outlook.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/manoj-kumar-desu)  
+🔗 [GitHub](https://github.com/manojkumar229)
+
+---
+
+## 📄 License
+
+This project is submitted as part of an internship evaluation and is intended for educational use only.
+
+---
