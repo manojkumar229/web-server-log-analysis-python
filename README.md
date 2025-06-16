@@ -3,7 +3,7 @@
 This repository contains two hands-on projects demonstrating data extraction, cleaning, analysis, and visualization using Python and Power BI. These projects reflect real-world business use cases: web log monitoring and financial trading strategy evaluation.
 
 
-## 🧠 Project 1: Web Server Log Analysis (Python)
+## 🧠 Project: Web Server Log Analysis (Python)
 
 ### 🔍 Overview
 This project involves analyzing a real-world web server log file (Apache format) to uncover traffic trends, error patterns, and usage behavior.
